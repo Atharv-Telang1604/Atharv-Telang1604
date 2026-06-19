@@ -82,6 +82,29 @@ I'm a passionate **Gen AI Developer**, **Machine Learning Engineer**, and **Full
 
 ---
 
+## ⭐ Flagship Project: EvalMatrix - AI Model Evaluation
+
+<div align="center">
+
+### 🚀 [EvalMatrix: Comprehensive AI Model Evaluation Platform](https://github.com/Atharv-Telang1604/EvalMatrix-AI-Model-Evaluation)
+
+A powerful and intuitive platform for evaluating, comparing, and benchmarking machine learning models with advanced metrics and visualization capabilities.
+
+**Key Features:**
+- 📊 **Multi-Model Evaluation** - Compare multiple ML models side by side
+- 📈 **Advanced Metrics** - Comprehensive evaluation metrics for classification, regression, and clustering
+- 🎨 **Interactive Visualizations** - Beautiful charts and graphs for model performance analysis
+- 🔧 **Easy Integration** - Simple API for integrating with your ML pipelines
+- 📱 **Full Stack Implementation** - React frontend + Express.js backend + MongoDB database
+
+**Tech Stack:** Python | TensorFlow | PyTorch | React | Express.js | MongoDB | Scikit-learn
+
+[![GitHub Repo](https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github)](https://github.com/Atharv-Telang1604/EvalMatrix-AI-Model-Evaluation)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -116,18 +139,6 @@ I'm a passionate **Gen AI Developer**, **Machine Learning Engineer**, and **Full
 - 💬 Happy to discuss **AI development, ML algorithms, full stack architecture, and tech trends**
 - 📫 How to reach me: [Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/atharv-telang)
 - ⚡ Fun fact: I spend nights training neural networks and debugging AI models! 🚀🧠
-
----
-
-## 📈 Featured AI/ML Projects
-
-Explore my repositories for cutting-edge AI and ML projects:
-
-- **[Gen AI Chatbot](#)** - Intelligent chatbot using OpenAI APIs with Express.js backend
-- **[Machine Learning Model](#)** - Advanced predictive model with TensorFlow/PyTorch
-- **[Full Stack AI Application](#)** - Complete AI system: React frontend + Express.js + MongoDB
-- **[NLP Solution](#)** - Natural Language Processing for text analysis
-- **[Computer Vision Project](#)** - Deep learning model for image recognition
 
 ---
 
