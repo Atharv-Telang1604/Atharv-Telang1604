@@ -4,6 +4,7 @@
   
   [![GitHub followers](https://img.shields.io/github/followers/Atharv-Telang1604?style=social)](https://github.com/Atharv-Telang1604)
   [![Twitter Follow](https://img.shields.io/badge/Twitter-%40AtharvTelang-blue?style=flat&logo=twitter)](https://twitter.com/AtharvTelang)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat&logo=globe)](https://yourportfolio.com)
   
 </div>
 
@@ -11,39 +12,71 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Gen AI Developer**, **Machine Learning Enthusiast**, and **Full Stack Developer** who loves building amazing projects and solving complex problems. I'm committed to continuous learning and collaborating with the tech community.
+I'm a passionate **Gen AI Developer**, **Machine Learning Engineer**, and **Full Stack Developer** dedicated to creating intelligent, scalable applications that push the boundaries of technology. I specialize in building AI-powered solutions with modern web technologies.
 
-- 🤖 **Gen AI Developer** | Building intelligent AI-powered applications
-- 🧠 **Machine Learning Engineer** | Data scientist at heart
-- 💻 **Full Stack Developer** | Problem Solver | Open Source Contributor
-- 🌍 Based in India | Always open to new opportunities
-- 📚 Currently exploring new technologies and best practices
-- 🎯 Goal: Build impactful projects that make a difference
+- 🤖 **Gen AI Developer** | LLM Integration | AI-Powered Applications
+- 🧠 **Machine Learning Engineer** | Deep Learning | Neural Networks | Data Science
+- 💻 **Full Stack Developer** | Building Production-Ready Applications
+- 🌍 Based in India | Open Source Contributor | Tech Enthusiast
+- 📚 Constantly learning cutting-edge AI/ML techniques
+- 🎯 Mission: Democratize AI through accessible, innovative solutions
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Core Expertise
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### AI/ML & Frameworks
+### 🤖 AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chain&logoColor=white)
 
-### Web Frameworks & Tools
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white)
+
+### 🌐 Web Development & Frameworks
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## 🧠 AI & Machine Learning Specializations
+
+<div align="center">
+
+| 🤖 Area | 📌 Skills |
+|---------|-----------|
+| **Large Language Models (LLMs)** | ChatGPT Integration, Prompt Engineering, Fine-tuning, RAG Systems |
+| **Deep Learning** | CNNs, RNNs, Transformers, Neural Networks |
+| **Natural Language Processing** | Text Classification, Sentiment Analysis, NER, Topic Modeling |
+| **Computer Vision** | Image Recognition, Object Detection, Image Segmentation |
+| **Generative AI** | Text Generation, Image Generation, AI Chatbots |
+| **Data Science** | Data Analysis, Visualization, Feature Engineering, EDA |
 
 </div>
 
@@ -53,33 +86,58 @@ I'm a passionate **Gen AI Developer**, **Machine Learning Enthusiast**, and **Fu
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atharv-Telang1604&show_icons=true&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atharv-Telang1604&show_icons=true&theme=radical&card_width=400)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-Telang1604&layout=compact&theme=radical)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Atharv-Telang1604&theme=radical)
   
 </div>
 
 ---
 
-## 🎯 What I'm Up To
+## 🚀 Current Projects & Focus Areas
 
-- 🤖 Currently working on **Gen AI and Machine Learning projects**
-- 🔭 Building **full stack applications** with modern technologies
-- 🌱 Learning **advanced AI/ML techniques** and **best practices**
-- 👯 Open to **collaborating** on interesting projects
-- 💬 Ask me about **AI development, machine learning, full stack development, and tech**
-- 📫 How to reach me: [Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/atharv-telang)
-- ⚡ Fun fact: I love **debugging code** almost as much as writing it! 🐛
+- 🤖 **Gen AI Applications** - Building LLM-powered chatbots, RAG systems, and AI assistants
+- 🧠 **Machine Learning Models** - Developing and training advanced ML models
+- 💾 **Full Stack AI Systems** - Integrating AI backends with React frontends using Express.js and MongoDB/SQL
+- 📊 **Data Science Solutions** - Advanced analytics and predictive modeling
+- 🔗 **API Development** - Creating RESTful APIs with Express.js for AI services
+- 🌱 **Continuous Learning** - Exploring emerging AI/ML techniques and technologies
 
 ---
 
-## 📈 Recent Projects
+## 🎯 What I'm Up To
 
-Check out my repositories to see what I'm working on. Some highlights include:
+- 🤖 Actively developing **Gen AI and Machine Learning projects**
+- 🔭 Building **end-to-end AI solutions** with React + Express.js + MongoDB/SQL
+- 🌱 Mastering **advanced LLM techniques** and **prompt engineering**
+- 👯 Seeking collaborations on **AI/ML projects** and **innovative startups**
+- 💬 Happy to discuss **AI development, ML algorithms, full stack architecture, and tech trends**
+- 📫 How to reach me: [Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/atharv-telang)
+- ⚡ Fun fact: I spend nights training neural networks and debugging AI models! 🚀🧠
 
-- **[AI Project](#)** - Intelligent application using Gen AI
-- **[ML Model](#)** - Machine learning solution
-- **[Full Stack App](#)** - Complete web application
+---
+
+## 📈 Featured AI/ML Projects
+
+Explore my repositories for cutting-edge AI and ML projects:
+
+- **[Gen AI Chatbot](#)** - Intelligent chatbot using OpenAI APIs with Express.js backend
+- **[Machine Learning Model](#)** - Advanced predictive model with TensorFlow/PyTorch
+- **[Full Stack AI Application](#)** - Complete AI system: React frontend + Express.js + MongoDB
+- **[NLP Solution](#)** - Natural Language Processing for text analysis
+- **[Computer Vision Project](#)** - Deep learning model for image recognition
+
+---
+
+## 💡 Tech Stack Summary
+
+**Backend:** Node.js | Express.js | Python  
+**Frontend:** React | HTML5 | CSS3 | JavaScript  
+**Databases:** MongoDB | MySQL | PostgreSQL | Firebase  
+**AI/ML:** TensorFlow | PyTorch | Scikit-learn | OpenAI | Hugging Face | LangChain  
+**Tools:** Git | Docker | Jupyter | VS Code  
 
 ---
 
@@ -90,6 +148,7 @@ Check out my repositories to see what I'm working on. Some highlights include:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharv-telang)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atharv-Telang1604)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AtharvTelang)
   
 </div>
 
@@ -97,7 +156,13 @@ Check out my repositories to see what I'm working on. Some highlights include:
 
 <div align="center">
   
-  ⭐ Feel free to explore my repositories and don't hesitate to reach out!
+  ### 🌟 Let's Build Something Amazing Together!
+  
+  ⭐ If you find my projects interesting, feel free to star them and reach out for collaborations!
+  
+  ```
+  "The future belongs to those who combine AI with creativity and innovation."
+  ```
   
   *Last updated: June 2026*
   
