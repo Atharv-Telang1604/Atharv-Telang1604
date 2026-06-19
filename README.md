@@ -3,7 +3,6 @@
 <div align="center">
   
   [![GitHub followers](https://img.shields.io/github/followers/Atharv-Telang1604?style=social)](https://github.com/Atharv-Telang1604)
-  [![Twitter Follow](https://img.shields.io/badge/Twitter-%40AtharvTelang-blue?style=flat&logo=twitter)](https://twitter.com/AtharvTelang)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=flat&logo=globe)](https://yourportfolio.com)
   
 </div>
@@ -82,30 +81,26 @@ I'm a passionate **Gen AI Developer**, **Machine Learning Engineer**, and **Full
 
 ---
 
-## ⭐ Flagship Project: EvalMatrix - AI Model Evaluation
+## 📊 Key Projects
 
-<div align="center">
+### 🤖 EvalMatrix - AI Model Evaluation
 
-### 🚀 [EvalMatrix: Comprehensive AI Model Evaluation Platform](https://github.com/Atharv-Telang1604/EvalMatrix-AI-Model-Evaluation)
+A comprehensive machine learning model evaluation project featuring advanced metrics and comparative analysis for multiple models.
 
-A powerful and intuitive platform for evaluating, comparing, and benchmarking machine learning models with advanced metrics and visualization capabilities.
+**Project Highlights:**
+- 📊 Multi-Model Comparison & Evaluation
+- 📈 Advanced Performance Metrics (Accuracy, Precision, Recall, F1-Score, AUC-ROC, etc.)
+- 🔍 In-depth Model Analysis and Benchmarking
+- 📉 Statistical Analysis and Performance Visualization
+- 🎯 Support for Classification, Regression, and Clustering Tasks
 
-**Key Features:**
-- 📊 **Multi-Model Evaluation** - Compare multiple ML models side by side
-- 📈 **Advanced Metrics** - Comprehensive evaluation metrics for classification, regression, and clustering
-- 🎨 **Interactive Visualizations** - Beautiful charts and graphs for model performance analysis
-- 🔧 **Easy Integration** - Simple API for integrating with your ML pipelines
-- 📱 **Full Stack Implementation** - React frontend + Express.js backend + MongoDB database
+**Technologies:** Python | TensorFlow | PyTorch | Scikit-learn | Pandas | NumPy | Matplotlib
 
-**Tech Stack:** Python | TensorFlow | PyTorch | React | Express.js | MongoDB | Scikit-learn
-
-[![GitHub Repo](https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github)](https://github.com/Atharv-Telang1604/EvalMatrix-AI-Model-Evaluation)
-
-</div>
+[![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-000000?style=for-the-badge&logo=github)](https://github.com/Atharv-Telang1604/EvalMatrix-AI-Model-Evaluation)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
   
@@ -119,35 +114,36 @@ A powerful and intuitive platform for evaluating, comparing, and benchmarking ma
 
 ---
 
-## 🚀 Current Projects & Focus Areas
+## 🚀 Current Focus & Interests
 
-- 🤖 **Gen AI Applications** - Building LLM-powered chatbots, RAG systems, and AI assistants
-- 🧠 **Machine Learning Models** - Developing and training advanced ML models
-- 💾 **Full Stack AI Systems** - Integrating AI backends with React frontends using Express.js and MongoDB/SQL
-- 📊 **Data Science Solutions** - Advanced analytics and predictive modeling
-- 🔗 **API Development** - Creating RESTful APIs with Express.js for AI services
-- 🌱 **Continuous Learning** - Exploring emerging AI/ML techniques and technologies
+- 🤖 Developing **Gen AI and Machine Learning models**
+- 🧠 Building **advanced neural networks** and deep learning solutions
+- 📊 Researching **model evaluation techniques** and performance optimization
+- 🌱 Exploring **LLM fine-tuning** and **prompt engineering**
+- 👯 Collaborating on **innovative AI/ML research projects**
+- 💡 Contributing to **open-source ML communities**
 
 ---
 
-## 🎯 What I'm Up To
+## 🎯 What I'm Working On
 
 - 🤖 Actively developing **Gen AI and Machine Learning projects**
-- 🔭 Building **end-to-end AI solutions** with React + Express.js + MongoDB/SQL
-- 🌱 Mastering **advanced LLM techniques** and **prompt engineering**
-- 👯 Seeking collaborations on **AI/ML projects** and **innovative startups**
-- 💬 Happy to discuss **AI development, ML algorithms, full stack architecture, and tech trends**
+- 🔭 Building and training **advanced ML models** with TensorFlow and PyTorch
+- 🌱 Mastering **advanced deep learning techniques** and **neural network architectures**
+- 👯 Seeking collaborations on **AI/ML research** and **model development**
+- 💬 Happy to discuss **machine learning algorithms, model optimization, data science, and AI trends**
 - 📫 How to reach me: [Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/atharv-telang)
-- ⚡ Fun fact: I spend nights training neural networks and debugging AI models! 🚀🧠
+- ⚡ Fun fact: I love training neural networks and experimenting with cutting-edge AI models! 🚀🧠
 
 ---
 
 ## 💡 Tech Stack Summary
 
-**Backend:** Node.js | Express.js | Python  
-**Frontend:** React | HTML5 | CSS3 | JavaScript  
+**Languages:** Python | JavaScript | Java | SQL  
+**ML/AI Frameworks:** TensorFlow | PyTorch | Scikit-learn | Keras | OpenAI | Hugging Face | LangChain  
+**Data Processing:** Pandas | NumPy | Matplotlib | Seaborn | Plotly  
+**Web Development:** React | Express.js | Node.js | HTML5 | CSS3  
 **Databases:** MongoDB | MySQL | PostgreSQL | Firebase  
-**AI/ML:** TensorFlow | PyTorch | Scikit-learn | OpenAI | Hugging Face | LangChain  
 **Tools:** Git | Docker | Jupyter | VS Code  
 
 ---
@@ -159,7 +155,6 @@ A powerful and intuitive platform for evaluating, comparing, and benchmarking ma
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharv-telang)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atharv-Telang1604)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AtharvTelang)
   
 </div>
 
@@ -167,9 +162,9 @@ A powerful and intuitive platform for evaluating, comparing, and benchmarking ma
 
 <div align="center">
   
-  ### 🌟 Let's Build Something Amazing Together!
+  ### 🌟 Let's Collaborate and Innovate!
   
-  ⭐ If you find my projects interesting, feel free to star them and reach out for collaborations!
+  ⭐ Feel free to explore my repositories and reach out for collaborations on AI/ML projects!
   
   ```
   "The future belongs to those who combine AI with creativity and innovation."
